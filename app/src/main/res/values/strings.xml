@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Transerv</string>
+    <string name="box_office">Box Office:</string>
+    <string name="desc">Description:</string>
+    <string name="response">Response:</string>
+    <string name="website">Website:</string>
+    <string name="production">Production:</string>
+    <string name="dvd">DVD:</string>
+    <string name="type">Type:</string>
+    <string name="imdbId">IMDB Id:</string>
+    <string name="imdbVotes">IMDB Votes:</string>
+    <string name="imdbrating">IMDB Ratings:</string>
+    <string name="metascore">Metascore:</string>
+    <string name="rating">Rating:</string>
+    <string name="awards">Awards:</string>
+    <string name="country">Country:</string>
+    <string name="language">Language:</string>
+    <string name="actors">Actors:</string>
+    <string name="writer">Writer:</string>
+    <string name="director">Director:</string>
+    <string name="genre">Genre:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="released">Released:</string>
+    <string name="year">Year:</string>
+    <string name="failure_msg">Unable to load movies list. Please try again later.</string>
+    <string name="internet_failure_msg">No internet detected. Please connect to internet connection and retry again.</string>
+    <string name="refresh">Refresh</string>
+</resources>
